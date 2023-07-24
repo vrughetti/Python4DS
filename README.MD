@@ -1,16 +1,16 @@
-# Python4DS
+# Data Science in Python - Prof. Luigi Laura (Uninettuno University)
 
-This repository contains the code and notebooks for the Python for Data Science course.
+This repository contains the code and notebooks for the Data Science in Python course taught by Prof. Luigi Laura of Uninettuno University.
 
 ## Contents
 
-* [`notebooks/`](/notebooks/) - A directory containing the Jupyter notebooks for the course.
+* [`notebooks/`](/notebooks/) - A directory containing Jupyter notebooks (Google Colab compatible) for the course.
 * [`data/`](/data/) - A directory containing the data used in the notebooks.
-* [`requirements.txt`](requirements.txt) - A file listing the Python dependencies for the course.
+* [`requirements.txt`](requirements.txt) - A file listing the Python dependencies that you need to satisfy to run the course notebooks.
 
 ## Installation
 
-To install the dependencies for the course locally, run the following command:
+To install the required dependencies for the course locally, run the following command:
 
 ```sh
 pip install -r https://raw.githubusercontent.com/vrughetti/python4DS/main/requirements.txt
